@@ -1,0 +1,43 @@
+{
+  "config": {
+    "color": "",
+    "fontSize": "30px"
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Hey there!",
+      "backgroundImage": "/imghero.jpeg"
+    },
+    {
+      "type": "text",
+      "content": "I'm Murali\n I Engineer products 🏗️\n Love programming 💻",
+      "class": "font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"
+    },
+    {
+      "type": "tripleimage",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/ic-corner.appspot.com/o/student-gf17ad0033_1280.jpg?alt=media&token=f0e0ec1b-0077-4e25-9901-5f2cf6cdae0e",
+        "https://firebasestorage.googleapis.com/v0/b/ic-corner.appspot.com/o/porjectsimage.png?alt=media&token=4dce12dc-aa92-4cfc-bcaf-c4383d027f39",
+        "https://firebasestorage.googleapis.com/v0/b/ic-corner.appspot.com/o/student-gf17ad0033_1280.jpg?alt=media&token=f0e0ec1b-0077-4e25-9901-5f2cf6cdae0e"
+      ]
+    },
+    {
+      "type": "text",
+      "content": "My Stack",
+      "align": "center",
+      "class": "font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"
+    },
+    {
+      "type": "text",
+      "content": "Email \n muralismail4u@gmail.com",
+      "animation": "fadeUp",
+      "align": "center"
+    },
+    {
+      "type": "text",
+      "content": "Thanks for checking out",
+      "align": "center"
+    }
+  ]
+}
